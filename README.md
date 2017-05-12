@@ -1,3 +1,5 @@
+Visit [DNSPerf.com](https://www.dnsperf.com/) for online reporting, DNS comparison and benchmarks
+
 # dnsperf
 
 ## Overview
